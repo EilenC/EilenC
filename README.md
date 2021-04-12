@@ -1,5 +1,4 @@
 ### Hi there 👋
-### Hi there 👋
 - 🔭 I’m currently working on ? (It's a secret now!)
 - 🌱 I’m currently learning programming.
 - 💬 My Blog: in here
@@ -14,6 +13,10 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 
+### 💻 Operating System
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code> Linux  
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code> Windows  
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png"></code> MacOs  
 <!--
 **EilenC/EilenC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
