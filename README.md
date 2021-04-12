@@ -14,7 +14,7 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/aa7a9e363adca2d4baf0148ebdee68be35d0572b/topics/gin/gin.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
+<code><img height="25" src="https://avatars.githubusercontent.com/u/6937061?s=200&v=4"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png"></code>
 
 <!--
